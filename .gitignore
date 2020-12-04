@@ -1,0 +1,7 @@
+__pycache__/
+*.webm
+*.mp4
+build/
+dist/
+*.spec
+.idea/
